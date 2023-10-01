@@ -1,3 +1,5 @@
+# Given an integer x, return true if x is a palindrome, and false otherwise.
+# https://leetcode.com/problems/palindrome-number/
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         # Handle negative numbers and numbers ending with 0 (except 0 itself)
