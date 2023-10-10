@@ -5,4 +5,4 @@
 
 
 SR no. | Name
-3   |   Sourav Mondal(Armstrong number)
+
